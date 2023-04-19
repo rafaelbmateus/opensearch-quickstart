@@ -35,3 +35,5 @@ curl https://localhost:9200 -ku admin:admin
 
 Acesse o dashboard pelo endereço http://localhost:5601
 usando usuário `admin` e senha `admin`.
+
+![image](https://user-images.githubusercontent.com/8009492/233074957-bacbb6bc-1d2c-4fbe-906c-874d11acb948.png)
